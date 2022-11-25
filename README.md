@@ -1,0 +1,2 @@
+- 👋 Hey I’m @MeinMex
+- 📫 Discord: MeinMex#5023
