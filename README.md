@@ -21,8 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeinMex&count_private=true&theme=radical)
 
-<img width=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeinMex&langs_count=8&theme=radical&hide=css&layout=compact" />
-
 ## Contact Me
 
 - Discord: MeinMex#1605
