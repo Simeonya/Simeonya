@@ -19,8 +19,8 @@
 - I'm German but I also speak English
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeinMex&count_private=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeinMex&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ## Contact Me
 
 - Discord: MeinMex#1605
