@@ -23,4 +23,5 @@
 
 ## Contact Me
 
-- Discord: MeinMex#1605
+- Discord: MeinMex
+
