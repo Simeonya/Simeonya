@@ -23,22 +23,13 @@
 
 You can support my work by donating via cryptocurrency:
 
-<details>
-<summary>BTC</summary>
-  
-> Nope
 
 </details>
 <details>
 <summary>ETH</summary>
   
-> Nope
+> 0x03C2Ca5c0AB15E1220F28606b4238102B4bdc56F
 
-</details>
-<details>
-<summary>XMR</summary>
-  
-> Nope
 
 </details>
 
