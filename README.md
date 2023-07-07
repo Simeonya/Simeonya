@@ -45,8 +45,3 @@ You can support my work by donating via cryptocurrency:
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeinMex&show_icons=true&theme=transparent)
-
-## Contact Me
-
-- Discord: MeinMex
-
