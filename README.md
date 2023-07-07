@@ -25,19 +25,19 @@ You can support my work by donating via cryptocurrency:
 <details>
 <summary>BTC</summary>
   
-> bc1qcvmwsjkpmsllguefryv5wxjca7xn5ap8ur5s40
+> Nope
 
 </details>
 <details>
 <summary>ETH</summary>
   
-> 0x640A0E5b64977c48848c230354d0E6B98428c248
+> Nope
 
 </details>
 <details>
 <summary>XMR</summary>
   
-> 42dKCPbzSUrcCwFHWAxyHCGsBeCkGQDWCQn5XD5vn9HE7dLVWijsRju1g7NdcpPH5UDazJ75dLn8sVrZVAxFkLPZ8hcrm8A
+> Nope
 
 </details>
 
