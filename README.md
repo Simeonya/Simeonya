@@ -9,6 +9,7 @@
 
 ## What I do
 - Minecraft/Spigot Plugins and Custom Servers
+- Playing Counter Strike :)
 - Linux and Windows Software
 - Backend Server Software and Magemanet
 - Team Magemanet
