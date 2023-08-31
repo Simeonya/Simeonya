@@ -15,7 +15,7 @@
 - Team Magemanet
 
 ## Some Stuff about me
-- I'm a Developer since 2019
+- I'm a Developer since 2020
 - I’m mostly interested in Backend-Development
 - I'm German but I also speak English and Russia
 
