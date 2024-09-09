@@ -7,11 +7,11 @@
 
 🔭 I’m currently working on [JustX](https://github.com/Simeonya/JustX)
 
-👨‍💻 All of my projects are available at [https://github.com/Simeonya/](https://github.com/Simeonya/)
+👨‍💻 All of my projects are available at [My Projects](https://github.com/Simeonya/)
 
-📫 How to reach me **meinmex0@gmail.com**
+📫 How to reach me [Mail](mailto:meinmex0@gmail.com)
 
-⚡ Fun fact **I'am not funny**
+⚡ Fun fact [**I'am not funny**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
 
