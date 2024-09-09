@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on [JustX](https://github.com/Simeonya/JustX)
 
-👨‍💻 All of my projects are available at [My Projects](https://github.com/Simeonya/)
+👨‍💻 All of my projects are available at [My Projects](https://github.com/Simeonya?tab=repositories)
 
 📫 How to reach me [Mail](mailto:meinmex0@gmail.com)
 
