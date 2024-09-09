@@ -18,9 +18,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/https://x.com/simeonyaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/simeonyaaa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16707516/simeonya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16707516/simeonya" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/simeonyaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/simeonyaaa/" height="30" width="40" /></a>
+<a href="https://x.com/simeonyaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/simeonyaaa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16707516/simeonya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16707516/simeonya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/simeonyaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/simeonyaaa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
