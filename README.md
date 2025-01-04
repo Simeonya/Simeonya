@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on [CS2-PiShock]([https://github.com/Simeonya/JustX](https://github.com/Simeonya/CS2-PiShock))
+🔭 I’m currently working on [CS2-PiShock](https://github.com/Simeonya/CS2-PiShock)
 
 👨‍💻 All of my projects are available at [My Projects](https://github.com/Simeonya?tab=repositories)
 
