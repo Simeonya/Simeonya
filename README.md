@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simeonya&label=Profile%20views&color=0e75b6&style=flat" alt="simeonya" /> </p>
 
-<div align="center">
+<!--<div align="center">
 
 🔭 I’m currently working on [CS2-PiShock](https://github.com/Simeonya/CS2-PiShock)
 
@@ -14,7 +14,7 @@
 ⚡ Fun fact [**I'am not funny**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
-
+-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
