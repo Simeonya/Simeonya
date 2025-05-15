@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simeonya&label=Profile%20views&color=0e75b6&style=flat" alt="simeonya" /> </p>
 
-<!--<div align="center">
+<div align="center">
 
-🔭 I’m currently working on [CS2-PiShock](https://github.com/Simeonya/CS2-PiShock)
+🔭 I’m currently public working on nothing.
 
 👨‍💻 All of my projects are available at [My Projects](https://github.com/Simeonya?tab=repositories)
 
@@ -14,7 +14,7 @@
 ⚡ Fun fact [**I'am not funny**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
--->
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,10 +24,6 @@
 </p>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonya&show_icons=true&locale=en&layout=compact" alt="simeonya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simeonya&show_icons=true&locale=en" alt="simeonya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeonya&" alt="simeonya" /></p>
 </div>
 
