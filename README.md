@@ -27,15 +27,15 @@
 
 </div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">📊 GitHub Stats:</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simeonya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=simeonya&theme=dark&hide_border=false" alt="GitHub streak stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonya&show_icons=true&locale=en&layout=compact" alt="simeonya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simeonya&show_icons=true&locale=en" alt="simeonya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeonya&" alt="simeonya" /></p>
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=simeonya&icon=0&color=0" alt="Profile Visit Count"/></a>
+</p>
 
