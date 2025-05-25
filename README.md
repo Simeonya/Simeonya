@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Simeon</h1> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simeonya" alt="simeonya" /></a>
+<h1 align="center">Hi 👋, I'm Simeon  <img src="https://komarev.com/ghpvc/?username=simeonya&label=Profile%20views&color=0e75b6&style=flat" alt="simeonya" /> </h1>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simeonya" alt="simeonya" /></a>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simeonya&label=Profile%20views&color=0e75b6&style=flat" alt="simeonya" /> </p>
+
 
 <div align="center">
 
