@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently public working on [Scarface-Service](https://discord.gg/scarfaceservice)
+🔭 I’m currently public working on [Nordstadt](https://www.nordstadtrp.de/)
 
 👨‍💻 All of my projects are available at [My Projects](https://github.com/Simeonya?tab=repositories)
 
